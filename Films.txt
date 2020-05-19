@@ -1,0 +1,6 @@
+FI Titanic LeonardoDiCaprio;KateWinzlet 10/05/2020 Cluj-Napoca 188 212
+FI ToyBoy Hugo;Triana 10/01/2021 Bucuresti 450 310
+FI Tom&Jerry Tom;Jerry;Doggy 10/05/2020 Cluj-Napoca 500 400
+FI After JOsephine;Hero 12/09/2020 Oradea 345 123
+FI Pistruiatul UnPistruiat 10/05/2020 Bucuresti 100 50
+FI Ochidinumbra Ernest;altii 23/12/2020 Focsani 123 100
